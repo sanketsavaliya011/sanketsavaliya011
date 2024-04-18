@@ -1,30 +1,3 @@
-###
-<html font-size="20px">Hello, I'm Sanket Savaliya 👋</html>
+# Hello, I'm Sanket Savaliya 👋:
+<br>🔥 About Me:<br>Pursuing a MSc in Data Analytics, with six months of experience, and developed a portfolio of over 5+ projects, with a strong academic background and hands-on experience in data analysis tools such as MS Excel, Python, SQL, and visualization tool Tableau.<br><br>💻 Tools and Technologies:<br>- SQL<br>- Tableau<br>- Python<br>- MS Excel<br><br>🌐 Connect with Me:<br>- LinkedIn: [https://www.linkedin.com/in/sanketsavaliya/]<br>- Email: [sanketsavaliya0111@gmail.com]
 
-- About Me
-Pursuing a MSc in Data Analytics, with six months of experience, and developed a portfolio of over 10+ projects, with a strong academic background and hands-on experience in data analysis tools such as MS Excel, Python, SQL, and visualization tool Tableau.
-
-Tools and Technologies
-- SQL
-- Tableau
-- Python
-- MS Excel
-
-Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/sanketsavaliya/]
-- Email: [sanketsavaliya0111@gmail.com]
-- Portfolio: [-]
-<!--
-**sanketsavaliya011/sanketsavaliya011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
