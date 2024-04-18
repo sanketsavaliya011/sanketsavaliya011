@@ -1,5 +1,5 @@
 ###
-Hello, I'm Sanket Savaliya 👋
+<html font-size="20px">Hello, I'm Sanket Savaliya 👋</html>
 
 - About Me
 Pursuing a MSc in Data Analytics, with six months of experience, and developed a portfolio of over 10+ projects, with a strong academic background and hands-on experience in data analysis tools such as MS Excel, Python, SQL, and visualization tool Tableau.
